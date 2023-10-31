@@ -1,0 +1,104 @@
+## 1.1 Latar Belakang
+
+setiap  pagi hari kami ke kampus ber sama - sama dengan jalan kaki lewat jalan belakang,
+pada suatu hari kami semua bangunnya agaka telat dan buru ke kampus dengan naik angkot ,
+pas mau naik angkot kita semua berdebat tentang siapa yg mau bayar angkotnya,semenjak itu 
+saya berfikir untuk membuat game pengundian
+
+## 1.2. Deksripsi Teknologi Informasi
+
+game ini saya buat dengan  bahasa java 
+fremorknya menggunakan visul code dan 
+librarynya menggunakan scanner
+
+## 1.3. Branding
+
+merk:Game Pengundian
+Tagline:aman,terpercaya,dan sangat membantu
+campaign:permaslahn dapat di selaisaikan dengan bijak,aman,dan simpel
+Target usia:
+siswa dan siswi
+mahasiswa
+masyarakat
+pemerintahan 
+bahkan presiden
+
+## 2. User Story
+
+Sebagai | Saya ingin bisa | Sehingga | Prioritas
+---|---|---|---
+Admin| menambah kota peserta | pesertanya lebih banyak | ⭐⭐⭐⭐⭐
+peserta|mebeli kupon|ikut serta dalam acara|⭐⭐⭐⭐⭐
+admin|menujukkan tempat|pesesrta dapat melihat|⭐⭐⭐⭐
+admin|mengendalikan kondis|sehingga acara bisa kondusip|⭐⭐⭐⭐⭐
+peserta|menunggu pengondian|dapat melihat pemenangnya|⭐⭐⭐⭐⭐
+pesesrta|
+
+## 3. Struktur Data
+
+Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+
+stateDiagram-v2
+    [*] --> undian
+
+    state undian {
+        [*] --> peserta
+
+        state peserta {
+            [*] --> peserta
+            peserta --> pengundian
+
+            state pemenang {
+                [*] --> pemenang
+                pemenang --> [*]
+            }
+        }
+    }
+
+## 4. Arsitektur Sistem
+
+mermaid
+flowchart TD
+  subgraph cloud
+
+  a(Database: MySQL)-->b(Backend: Python.Django)-->c(Webserver: Javascript.ExpressJS)
+  end
+
+  subgraph client
+  id1(Android and IOS app: Dart.Flutter)
+  end
+
+  cloud-->client
+
+
+
+## 5. Teknologi, Library, dan Framework
+
+game ini saya buat dengan  bahasa java 
+frameworknya menggunakan visul code dan 
+librarynya menggunakan scanne
+
+## 6. Desain User Experience dan User Interface
+
+Bisa load image 
+![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+
+## 7. Demonstrasi Video
+
+Link youtube nya
+
+## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini

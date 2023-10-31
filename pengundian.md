@@ -38,6 +38,7 @@ pesesrta|
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
+```mermaid
 stateDiagram-v2
     [*] --> undian
 
@@ -54,10 +55,11 @@ stateDiagram-v2
             }
         }
     }
+```
 
 ## 4. Arsitektur Sistem
 
-mermaid
+```mermaid
 flowchart TD
   subgraph cloud
 
@@ -70,7 +72,7 @@ flowchart TD
 
   cloud-->client
 
-
+```
 
 ## 5. Teknologi, Library, dan Framework
 

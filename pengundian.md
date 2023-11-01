@@ -3,13 +3,11 @@
 setiap  pagi hari kami ke kampus ber sama - sama dengan jalan kaki lewat jalan belakang,
 pada suatu hari kami semua bangunnya agaka telat dan buru ke kampus dengan naik angkot ,
 pas mau naik angkot kita semua berdebat tentang siapa yg mau bayar angkotnya,semenjak itu 
-saya berfikir untuk membuat game pengundian
+saya berfikir untuk membuat game in
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-game ini saya buat dengan  bahasa java 
-fremorknya menggunakan visul code dan 
-librarynya menggunakan scanner
+game ini mmengguanakan bahasa java,menggunakan javaFx ini di gunakan untuk pengembangan gamejuga untuk membuata tatap muaka antar pengguna,mengguanakan JDBC((Java Database Connectivity)ini untuk menyimpan dan mengambil data,di dalam game ini sya juaga menngunakan class java util ini di gunakan untuk anka-angka di dalam game,dalam pengembangan game yg 2 dimensi saya menggunakan LibGDX
 
 ## 1.3. Branding
 

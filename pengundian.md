@@ -25,7 +25,8 @@ mudah
 sederhana
 asik
 inspirasi desain
-![Uploading image.png…]()
+![image](https://github.com/Ahmadlong/Game-Pengundian/assets/148826264/9890ff2b-d719-47a1-81a4-38c685fa8324)
+
 
 
 

@@ -7,19 +7,29 @@ saya berfikir untuk membuat game in
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-game ini mmengguanakan bahasa java,menggunakan javaFx ini di gunakan untuk pengembangan gamejuga untuk membuata tatap muaka antar pengguna,mengguanakan JDBC((Java Database Connectivity)ini untuk menyimpan dan mengambil data,di dalam game ini sya juaga menngunakan class java util ini di gunakan untuk anka-angka di dalam game,dalam pengembangan game yg 2 dimensi saya menggunakan LibGDX
+game ini mmengguanakan bahasa java,menggunakan javaFx ini di gunakan untuk pengembangan game juga untuk membuat tatap muaka antar pengguna,mengguanakan JDBC((Java Database Connectivity)ini untuk menyimpan dan mengambil data,di dalam game ini sya juaga menngunakan class java util ini di gunakan untuk anka-angka di dalam game,dalam pengembangan game yg 2 dimensi saya menggunakan LibGDX
 
 ## 1.3. Branding
 
-merk:Game Pengundian
-Tagline:aman,terpercaya,dan sangat membantu
-campaign:permaslahn dapat di selaisaikan dengan bijak,aman,dan simpel
-Target usia:
+.Merk:Game Pengundian
+.Tagline:aman,terpercaya,dan sangat membantu
+.Campaign:permaslahn dapat di selaisaikan dengan bijak,aman,dan simpel
+.Target usia:
 siswa dan siswi
 mahasiswa
 masyarakat
 pemerintahan 
 bahkan presiden
+.user experience theme:
+mudah 
+sederhana
+asik
+inspirasi desain
+![Uploading image.png…]()
+
+
+
+
 
 ## 2. User Story
 

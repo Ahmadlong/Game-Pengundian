@@ -36,7 +36,7 @@ pesesrta|
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
-```mermaid
+
 stateDiagram-v2
     [*] --> undian
 
@@ -53,7 +53,7 @@ stateDiagram-v2
             }
         }
     }
-```
+
 
 ## 4. Arsitektur Sistem
 
@@ -61,7 +61,7 @@ stateDiagram-v2
 flowchart TD
   subgraph cloud
 
-  a(Database: MySQL)-->b(Backend: Python.Django)-->c(Webserver: Javascript.ExpressJS)
+  a(Database: MySQL)-->b(Backend: java)-->c(Webserver: Javascript.ExpressJ)
   end
 
   subgraph client
@@ -74,15 +74,13 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-game ini saya buat dengan  bahasa java 
-frameworknya menggunakan visul code dan 
-librarynya menggunakan scanne
-
+tehnologi yg sya gunkana antara lain:bahasa java,javaFX,JDBC,LibGX.
+librarynya : scanner dan lain - lain.
+Framework : visul code dan lain- lain.
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
 ![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
-
 ## 7. Demonstrasi Video
 
 Link youtube nya

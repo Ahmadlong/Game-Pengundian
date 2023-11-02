@@ -12,9 +12,13 @@ game ini mmengguanakan bahasa java,menggunakan javaFx ini di gunakan untuk penge
 ## 1.3. Branding
 
 .Merk:Game Pengundian
+
 .Tagline:aman,terpercaya,dan sangat membantu
+
 .Campaign:permaslahn dapat di selaisaikan dengan bijak,aman,dan simpel
+
 .Target usia:
+
 siswa dan siswi
 mahasiswa
 masyarakat

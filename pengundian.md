@@ -48,22 +48,11 @@ pesesrta|
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
 
-stateDiagram-v2
-    [*] --> undian
-
-    state undian {
-        [*] --> peserta
-
-        state peserta {
-            [*] --> peserta
-            peserta --> pengundian
-
-            state pemenang {
-                [*] --> pemenang
-                pemenang --> [*]
-            }
-        }
-    }
+```mermaid
+erDiagram
+    Undian ||--o{ Peserta : tersusun
+    Pengundian ||--|{ Pemenang : hadiah
+```
 
 
 ## 4. Arsitektur Sistem

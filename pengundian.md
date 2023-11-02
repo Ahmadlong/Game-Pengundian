@@ -1,13 +1,19 @@
 ## 1.1 Latar Belakang
 
-setiap  pagi hari kami ke kampus ber sama - sama dengan jalan kaki lewat jalan belakang,
-pada suatu hari kami semua bangunnya agaka telat dan buru ke kampus dengan naik angkot ,
-pas mau naik angkot kita semua berdebat tentang siapa yg mau bayar angkotnya,semenjak itu 
-saya berfikir untuk membuat game in
+Banyaknya orang berdwbat tentang hal yg keci
+
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-game ini mmengguanakan bahasa java,menggunakan javaFx ini di gunakan untuk pengembangan game juga untuk membuat tatap muaka antar pengguna,mengguanakan JDBC((Java Database Connectivity)ini untuk menyimpan dan mengambil data,di dalam game ini sya juaga menngunakan class java util ini di gunakan untuk anka-angka di dalam game,dalam pengembangan game yg 2 dimensi saya menggunakan LibGDX
+Game ini mmengguanakan bahasa java
+
+Menggunakan javaFx ini di gunakan untuk pengembangan game juga dan untuk membuat tatap muka antar pengguna
+
+Mengguanakan JDBC((Java Database Connectivity)ini untuk menyimpan dan mengambil data
+
+Di dalam game ini saya juaga menggunakan class java util ini di gunakan untuk angka-angka di dalam game
+
+Dalam pengembangan game yg 2 dimensi saya menggunakan LibGDX
 
 ## 1.3. Branding
 
@@ -20,19 +26,28 @@ game ini mmengguanakan bahasa java,menggunakan javaFx ini di gunakan untuk penge
 .Target usia:
 
 siswa dan siswi
+
 mahasiswa
+
 masyarakat
-pemerintahan 
+
+pemerintahan
+
 bahkan presiden
+
 .user experience theme:
-mudah 
+
+mudah
+
 sederhana
+
 asik
+
 inspirasi desain
-![image](https://github.com/Ahmadlong/Game-Pengundian/assets/148826264/9890ff2b-d719-47a1-81a4-38c685fa8324)
 
+![image](https://github.com/Ahmadlong/Game-Pengundian/assets/148826264/4dab42a0-09bc-44e3-a242-451fcc7fdb68)
 
-
+![image](https://github.com/Ahmadlong/Game-Pengundian/assets/148826264/33f3a2f0-2a48-46a6-af88-1501780ea6da)
 
 
 
@@ -40,12 +55,14 @@ inspirasi desain
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-Admin| menambah kota peserta | pesertanya lebih banyak | ⭐⭐⭐⭐⭐
-peserta|mebeli kupon|ikut serta dalam acara|⭐⭐⭐⭐⭐
-admin|menujukkan tempat|pesesrta dapat melihat|⭐⭐⭐⭐
-admin|mengendalikan kondis|sehingga acara bisa kondusip|⭐⭐⭐⭐⭐
-peserta|menunggu pengondian|dapat melihat pemenangnya|⭐⭐⭐⭐⭐
-pesesrta|
+Admin| menyediakan kupon sebanyaknya | pesertanya lebih banyak | ⭐⭐⭐⭐⭐
+Admin|membuat aturan|gamenya lancar|⭐⭐⭐⭐⭐
+admin|menyedikan hadiah yg menarik|pemenang bisa senang|⭐⭐⭐⭐
+admin|memberikan tata tertib dahulu|peserta tidak kebingungan|⭐⭐⭐⭐⭐
+peserta|membeli kupon|sehingga saya bisa main game ini|⭐⭐⭐⭐⭐
+peserta|mengajak orang main juga|admin memberikan plus ke saya|⭐⭐⭐
+Peserta|memasukkan uang ke admin|bisa bermain tanpa ada iklan|⭐⭐⭐⭐
+Admin|mengajak peserta melihat pemenang|pemenangnya terhibur⭐⭐⭐
 
 ## 3. Struktur Data
 
@@ -55,7 +72,7 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 ```mermaid
 erDiagram
     Undian ||--o{ Peserta : tersusun
-    Pengundian ||--|{ Pemenang : hadiah
+    Pengundian ||--|{ Undian : hadiah
 ```
 
 
@@ -79,8 +96,11 @@ flowchart TD
 ## 5. Teknologi, Library, dan Framework
 
 tehnologi yg sya gunkana antara lain:bahasa java,javaFX,JDBC,LibGX.
+
 librarynya : scanner dan lain - lain.
+
 Framework : visul code dan lain- lain.
+
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 

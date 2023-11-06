@@ -1,7 +1,6 @@
 ## 1.1 Latar Belakang
 
-Banyaknya orang berdwbat tentang hal yg keci
-
+Banyaknya orang berdebat tentang hal yg keci
 
 ## 1.2. Deksripsi Teknologi Informasi
 
@@ -50,7 +49,6 @@ inspirasi desain
 ![image](https://github.com/Ahmadlong/Game-Pengundian/assets/148826264/33f3a2f0-2a48-46a6-af88-1501780ea6da)
 
 
-
 ## 2. User Story
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
@@ -60,10 +58,11 @@ Admin|membuat aturan|gamenya lancar|⭐⭐⭐⭐⭐
 admin|menyedikan hadiah yg menarik|pemenang bisa senang|⭐⭐⭐⭐
 admin|memberikan tata tertib dahulu|peserta tidak kebingungan|⭐⭐⭐⭐⭐
 peserta|membeli kupon|sehingga saya bisa main game ini|⭐⭐⭐⭐⭐
-peserta|mengajak orang main juga|admin memberikan plus ke saya|⭐⭐⭐
+peserta|mengajak orang main juga|admin memberikan plus ke peserta|⭐⭐⭐
 Peserta|memasukkan uang ke admin|bisa bermain tanpa ada iklan|⭐⭐⭐⭐
-Admin|mengajak peserta melihat pemenang|pemenangnya terhibur⭐⭐⭐
-
+Admin|mengajak peserta melihat pemenang|pemenangnya terhibur|⭐⭐⭐
+Admin|membuat kolom saran|peserta dapat menulis kritikan|⭐⭐⭐⭐
+peserta|mengajukan permasalahan|admin dan peserta lain dapat menyelesaikannya|⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
@@ -71,8 +70,8 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    Undian ||--o{ Peserta : tersusun
-    Pengundian ||--|{ Undian : hadiah
+    Peserta|--o{ Peserta : Kupon
+    Undian||--|{ Peserta : Kupon
 ```
 
 

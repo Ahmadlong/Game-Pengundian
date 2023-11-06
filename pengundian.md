@@ -70,8 +70,8 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    Peserta|--o{ Peserta : Kupon
-    Undian||--|{ Peserta : Kupon
+    Pengundian|--o{ Peserta : Kupon
+    Undian||--|{ Pengundian: Hadiah
 ```
 
 
@@ -102,8 +102,8 @@ Framework : visul code dan lain- lain.
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+![WhatsApp Image 2023-11-06 at 05 41 41_82df1902](https://github.com/Ahmadlong/Game-Pengundian/assets/148826264/031204d7-6cac-4703-89cf-4b2dfb93905a)
+
 ## 7. Demonstrasi Video
 
 Link youtube nya

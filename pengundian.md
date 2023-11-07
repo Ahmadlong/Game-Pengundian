@@ -15,7 +15,6 @@ Di dalam game ini saya juaga menggunakan class java util ini di gunakan untuk an
 Dalam pengembangan game yg 2 dimensi saya menggunakan LibGDX
 
 ## 1.3. Branding
-
 .Merk:Game Pengundian
 
 .Tagline:aman,terpercaya,dan sangat membantu
@@ -63,6 +62,11 @@ Peserta|memasukkan uang ke admin|bisa bermain tanpa ada iklan|⭐⭐⭐⭐
 Admin|mengajak peserta melihat pemenang|pemenangnya terhibur|⭐⭐⭐
 Admin|membuat kolom saran|peserta dapat menulis kritikan|⭐⭐⭐⭐
 peserta|mengajukan permasalahan|admin dan peserta lain dapat menyelesaikannya|⭐⭐⭐⭐⭐
+Admin|membuat daftar riwayat|peserta dapat melihat daftar pengundian yg telah iya ikuti|⭐⭐⭐⭐
+Peserta|mengakses daftar pemenang undian sebelumnya|Saya dapat melihat sejarah pemenang dan hadiah yang telah diberikan|⭐⭐⭐⭐⭐
+Peasrta|Memberikan ulasan dan umpan balik tentang undian| Pengembang game dapat meningkatkan pengalaman pengundian untuk masa depan|⭐⭐⭐
+Peserta|Dapat berbagi hasil undian di media sosialSaya dapat memperlihatkan kepada teman-teman saya bahwa saya telah memenangkan hadiah|⭐⭐⭐⭐⭐
+
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
@@ -71,7 +75,7 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 ```mermaid
 erDiagram
     Pengundian|--o{ Peserta : Kupon
-    Undian||--|{ Pengundian: Hadiah
+    Undian||--|{ Undian: Hadiah
 ```
 
 
@@ -94,11 +98,11 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-tehnologi yg sya gunkana antara lain:bahasa java,javaFX,JDBC,LibGX.
+tehnologi yg saya gunakana antara lain:bahasa java,javaFX,JDBC,LibGX.
 
-librarynya : scanner dan lain - lain.
+librarynya : scanner,java swing,java awt,
 
-Framework : visul code dan lain- lain.
+Framework : visul code 
 
 ## 6. Desain User Experience dan User Interface
 

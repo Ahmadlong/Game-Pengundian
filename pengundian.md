@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-Banyaknya orang berdebat tentang hal yg keci
+Banyaknya orang berdebat tentang hal yg kecil
 
 ## 1.2. Deksripsi Teknologi Informasi
 
@@ -65,7 +65,7 @@ peserta|mengajukan permasalahan|admin dan peserta lain dapat menyelesaikannya|�
 Admin|membuat daftar riwayat|peserta dapat melihat daftar pengundian yg telah iya ikuti|⭐⭐⭐⭐
 Peserta|mengakses daftar pemenang undian sebelumnya|Saya dapat melihat sejarah pemenang dan hadiah yang telah diberikan|⭐⭐⭐⭐⭐
 Peasrta|Memberikan ulasan dan umpan balik tentang undian| Pengembang game dapat meningkatkan pengalaman pengundian untuk masa depan|⭐⭐⭐
-Peserta|Dapat berbagi hasil undian di media sosialSaya dapat memperlihatkan kepada teman-teman saya bahwa saya telah memenangkan hadiah|⭐⭐⭐⭐⭐
+Peserta|Dapat berbagi hasil undian di media sosial|Saya dapat memperlihatkan kepada teman-teman saya bahwa saya telah memenangkan hadiah|⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 

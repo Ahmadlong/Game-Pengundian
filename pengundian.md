@@ -14,6 +14,8 @@ Di dalam game ini saya juaga menggunakan class java util ini di gunakan untuk an
 
 Dalam pengembangan game yg 2 dimensi saya menggunakan LibGDX
 
+teknologinya leptop
+
 ## 1.3. Branding
 .Merk:Game Pengundian
 
@@ -74,8 +76,8 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    Pengundian|--o{ Peserta : Kupon
-    Undian||--|{ Undian: Hadiah
+    Undian ||--o{ Pengundian : Peserta
+    Pengundian ||--|{ Hadiah : Pemenang
 ```
 
 

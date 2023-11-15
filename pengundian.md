@@ -99,8 +99,12 @@ flowchart TD
 ```
 
 ## 5. Teknologi, Library, dan Framework
+Teknologi
 
-tehnologi yg saya gunakana antara lain:bahasa java,javaFX,JDBC,LibGX.
+java SE adalah platform java yang mentediakan fitur-fitur dasar
+
+
+.
 
 librarynya : scanner,java swing,java awt,
 

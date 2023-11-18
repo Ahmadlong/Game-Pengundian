@@ -106,9 +106,15 @@ java SE adalah platform java yang mentediakan fitur-fitur dasar
 
 .
 
-librarynya : scanner,java swing,java awt,
+librarynya : sc
 
-Framework : visul code 
+Framework 
+
+libGDX
+
+mini2Dx
+
+libgdx
 
 ## 6. Desain User Experience dan User Interface
 

@@ -101,12 +101,16 @@ flowchart TD
 ## 5. Teknologi, Library, dan Framework
 Teknologi
 
-java SE adalah platform java yang mentediakan fitur-fitur dasar
+menggunakan bahasa java
 
+Menggunakan javaFx 
 
+menggunakan java util
+
+menggunakan laptop
 .
 
-librarynya : sc
+Library
 
 Framework 
 

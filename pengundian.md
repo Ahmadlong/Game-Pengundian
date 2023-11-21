@@ -130,7 +130,7 @@ https://youtube.com/@AhmadRidwan-vw8oc?si=6C9_UXs-9RiOYS6b
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-https://youtube.com/@AhmadRidwan-vw8oc?si=6C9_UXs-9RiOYS6b
+https://youtu.be/bfHJwbBXCqk?si=1sx1BizqVfsvoqCK
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 

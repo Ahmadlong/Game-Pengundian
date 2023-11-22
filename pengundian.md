@@ -108,17 +108,27 @@ Menggunakan javaFx
 menggunakan java util
 
 menggunakan laptop
-.
 
-Library
 
-Framework 
+Library(Kumpulan kode yang telah di tulis sebelumnya dan yang dapat di gunakan oleh oranng lain)
+
+java swing
+
+java awt
+
+java.awt.event.ActionEvent
+
+java.awt.event.ActionListener
+
+java.util.Random
+
+Framework (struktur kerja yang menyediakan landasan konseptual dan teknologis untuk memudahkan pengembangan perangkat lunak)
 
 libGDX
 
-mini2Dx
+Slick2D
 
-libgdx
+javaFX
 
 ## 6. Desain User Experience dan User Interface
 

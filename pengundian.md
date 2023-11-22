@@ -14,7 +14,7 @@ Di dalam game ini saya juaga menggunakan class java util ini di gunakan untuk an
 
 Dalam pengembangan game yg 2 dimensi saya menggunakan LibGDX
 
-teknologinya leptop
+Pembuatan menggunakan laptop
 
 ## 1.3. Branding
 .Merk:Game Pengundian

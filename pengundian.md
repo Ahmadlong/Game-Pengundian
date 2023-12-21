@@ -101,7 +101,7 @@ flowchart TD
 ```
 
 ## 5. Teknologi, Library, dan Framework
-Teknologi
+.Teknologi
 
 menggunakan bahasa java
 
@@ -112,7 +112,7 @@ menggunakan java util
 menggunakan laptop
 
 
-Library(Kumpulan kode yang telah di tulis sebelumnya dan yang dapat di gunakan oleh oranng lain)
+.Library(Kumpulan kode yang telah di tulis sebelumnya dan yang dapat di gunakan oleh oranng lain)
 
 java swing
 
@@ -124,7 +124,7 @@ java.awt.event.ActionListener
 
 java.util.Random
 
-Framework (struktur kerja yang menyediakan landasan konseptual dan teknologis untuk memudahkan pengembangan perangkat lunak)
+.Framework (struktur kerja yang menyediakan landasan konseptual dan teknologis untuk memudahkan pengembangan perangkat lunak)
 
 libGDX
 
@@ -142,15 +142,9 @@ Link youtube nya
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-
-
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-
-
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
-
-Link youtube nya di detik jawaban ini
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 

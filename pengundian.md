@@ -10,11 +10,11 @@ Menggunakan javaFx ini di gunakan untuk pengembangan game juga dan untuk membuat
 
 Mengguanakan JDBC((Java Database Connectivity)ini untuk menyimpan dan mengambil data
 
-Di dalam game ini saya juaga menggunakan class java util ini di gunakan untuk angka-angka di dalam game
+Di dalam game ini saya juaga menggunakan class java util, ini di gunakan untuk menyimpan angka-angka di dalam game
 
 Dalam pengembangan game yg 2 dimensi saya menggunakan LibGDX
 
-Pembuatan menggunakan laptop
+Game ini saya buat dengan bantuan laptop
 
 ## 1.3. Branding
 .Merk:Game Pengundian
@@ -33,7 +33,7 @@ masyarakat
 
 pemerintahan
 
-bahkan presiden
+anak kecil
 
 .user experience theme:
 
@@ -42,6 +42,8 @@ mudah
 sederhana
 
 asik
+
+sangat membantu 
 
 inspirasi desain
 

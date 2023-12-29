@@ -154,5 +154,6 @@ https://youtu.be/6WUiKib8vmo
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
+https://cibirublog.wordpress.com/2023/12/30/bagaimana-database-sistem-basis-data-berperan-dalam-produk-teknologi-informasimu/
 
 
